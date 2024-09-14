@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/joao-debarro/joao-debarro/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/joao-debarro/joao-debarro/blob/output/github-contribution-grid-snake.svg)
 
 ###
